@@ -1,3 +1,5 @@
+//Coded by :- Vaibhav Sharma
+//Roll No. :- 17co58
 #include <stdio.h>
 #include <math.h>
 int decimal(int n);
